@@ -1,4 +1,4 @@
-# Welcome 👋 to great lakes dev
+# Welcome 👋 to everyday⚡dev
 A collection of projects and products all containing FOSS and OSHW. The goal is to provide cool and useful tools, gadgets and software designs to you for free so you can build it on your own! 
 - 🛒 If you just want to start tinkering with a piece of hardware and skip the build, you can pickup a fully built piece at the [shop/COMING SOON](https://www.github.com/greatlakesdev). 
 - 🗒️ To stay up to date on great lakes dev as well as view walk-throughs, teardowns and product spotlights check out the [blog](https://www.greatlakesdev.io/blog). 
